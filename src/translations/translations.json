@@ -1,0 +1,50 @@
+{
+    "en": {
+        "translation": {
+            "Hello": "Hello and welcome.",
+            "Thanks": "Thanks for the warm welcome.",
+            "Where": "Where are you from?",
+            "Canada": "I'm from Canada, eh."
+        }
+    }, 
+    "es": {
+        "translation": {
+            "Hello": "Hola y bienvenido.",
+            "Thanks": "Gracias por la cálida bienvenida.",
+            "Where": "¿Dónde estás?",
+            "Canada": "Soy de Canadá, eh."
+        }
+    }, 
+    "fr": {
+        "translation": {
+            "Hello": "Bonjour et bienvenue.",
+            "Thanks": "Merci pour l'accueil chaleureux.",
+            "Where": "D'où viens-tu?",
+            "Canada": "Je viens du Canada, hein."
+        }
+    },
+    "de": {
+        "translation": {
+            "Hello": "Hallo und Willkommen.",
+            "Thanks": "Danke für den herzlichen Empfang.",
+            "Where": "Wo kommen Sie her?",
+            "Canada": "Ich komme aus Kanada, äh."
+        }
+    },
+    "ar": {
+        "translation": {
+            "Hello": "أهلا ومرحبا.",
+            "Thanks": "شكرا على الترحيب الحار.",
+            "Where": "من أين أنت؟",
+            "Canada": "أنا من كندا ، إيه."
+        }
+    },
+    "zh": {
+        "translation": {
+            "Hello": "你好，歡迎光臨。",
+            "Thanks": "感謝您的熱烈歡迎。",
+            "Where": "你從哪裡來？",
+            "Canada": "我來自加拿大，嗯。"
+        }
+    }
+}
